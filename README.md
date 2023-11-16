@@ -1,8 +1,24 @@
-# React + Vite
+# React Window Dimensions Hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application to track and display the current window size dynamically.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view a live demo of the app [here](#).
+
+## Screenshots
+
+![App Screenshot](/screenshots/app-screenshot.png)
+
+## Features
+
+- Tracks and displays the current window width dynamically.
+- Responsive design to adapt to different screen sizes.
+- Clean and simple UI.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/react-window-size-tracker.git
