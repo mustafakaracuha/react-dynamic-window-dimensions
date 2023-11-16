@@ -1,4 +1,4 @@
-# React Window Dimensions Hook
+# React Window Dimensions
 
 A simple and responsive React application that dynamically tracks and displays the current window size.
 
