@@ -16,7 +16,7 @@ A simple and responsive React application that dynamically tracks and displays t
 
 ## Demo
 
-You can experience the live demo of the app [here](#).
+You can experience the live demo of the app [here](https://react-dynamic-window-dimensions.vercel.app/).
 
 ## Installation
 
