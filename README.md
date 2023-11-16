@@ -38,7 +38,7 @@ You can experience the live demo of the app [here](#).
 
 ## Usage
 
-Run the app locally:
+Run the app locally: 5173
 
 ```bash
 npm start
