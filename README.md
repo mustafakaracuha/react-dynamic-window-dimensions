@@ -8,7 +8,7 @@ You can experience the live demo of the app [here](#).
 
 ## Screenshots
 
-![App Screenshot](/screenshots/app-screenshot.png)
+ <img src="https://github.com/mustafakaracuha/react-dynamic-window-dimensions/blob/main/src/assets/images/app.png" alt="app" width="400" />
 
 ## Features
 
