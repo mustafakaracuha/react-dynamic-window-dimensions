@@ -2,19 +2,21 @@
 
 A simple and responsive React application that dynamically tracks and displays the current window size.
 
-## Demo
-
-You can experience the live demo of the app [here](#).
-
 ## Screenshots
 
+<p align="center">
  <img src="https://github.com/mustafakaracuha/react-dynamic-window-dimensions/blob/main/src/assets/images/app.png" alt="app" width="400" />
+</p>
 
 ## Features
 
 - Dynamically tracks and displays the current window width.
 - Responsive design that adapts to different screen sizes.
 - Clean and intuitive user interface.
+
+## Demo
+
+You can experience the live demo of the app [here](#).
 
 ## Installation
 
